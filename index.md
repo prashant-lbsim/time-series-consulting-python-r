@@ -8,6 +8,8 @@ Some examples of time series projects I have worked on include:
 - Sales forecasting and analysis across a variety of industries
 - Road traffic modelling for a local governmental authority
 
+## Portfolio Examples
+
 ### Kalman Filter: Modelling Time Series Shocks with KFAS in R
 
 Time series shocks in the currency market were modelled in this instance using a model known as the Kalman Filter. The model showed high responsiveness in adjusting for the sudden downtrend in GBP/USD one day before “Brexit”, and for the USD/CHF one day before the depegging of the euro against the Swiss franc.
