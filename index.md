@@ -34,7 +34,7 @@ In this example, an OLS regression model is constructed to forecast future S&P 5
 
 Here is an illustration of how the LSTM neural network was used to forecast energy consumption of the Dublin City Council Civic Offices using data between April 2011 – February 2013. The LSTM model demonstrated a low test error (root mean squared error) in forecasting electricity trends.
 
-### SARIMA: Forecasting seasonal data with Python and R
+### [SARIMA: Forecasting seasonal data with Python and R](https://mgcodesandstats.github.io/arima-model-statsmodels-python/)
 
 ![timeseriesconsulting](article-2.png)
 
