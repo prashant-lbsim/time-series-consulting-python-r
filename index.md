@@ -16,19 +16,19 @@ Some examples of time series projects I have worked on include:
 
 ## Portfolio Examples
 
-### Kalman Filter: Modelling Time Series Shocks with KFAS in R
+### [Kalman Filter: Modelling Time Series Shocks with KFAS in R](https://mgcodesandstats.github.io/kalman-filter-shocks-kfas/)
 
 ![timeseriesconsulting](usdchf-plot.png)
 
 Time series shocks in the currency market were modelled in this instance using a model known as the Kalman Filter. The model showed high responsiveness in adjusting for the sudden downtrend in GBP/USD one day before “Brexit”, and for the USD/CHF one day before the depegging of the euro against the Swiss franc.
 
-### Modelling time series relationships between the S&P 500 and oil prices
+### [Modelling time series relationships between the S&P 500 and oil prices](https://mgcodesandstats.github.io/time-series-relationships-economics/)
 
 ![timeseriesconsulting](oil.png)
 
 In this example, an OLS regression model is constructed to forecast future S&P 500 levels based on the price of Brent crude oil. The model was adjusted for serial correlation, and tested for cointegration. The model was able to predict the actual values of the S&P 500 within 5% accuracy on average, with 61% of prediction errors falling below 5%.
 
-### Predicting commercial electricity consumption with an LSTM neural network
+### [Predicting commercial electricity consumption with an LSTM neural network](https://mgcodesandstats.github.io/electricity-consumption-neural/)
 
 ![timeseriesconsulting](over-50-days.png)
 
