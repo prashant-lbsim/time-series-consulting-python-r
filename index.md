@@ -1,3 +1,8 @@
+[Time Series Consulting](https://mgcodesandstats.github.io/timeseriesconsulting/) |
+[Portfolio](https://mgcodesandstats.github.io/portfolio/) |
+[Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
+[E-mail me](mailto:michael@michaeljgrogan.com)
+
 ## Do you have time series data that you need to leverage to its full potential?
 
 Feel free to e-mail me for an initial discussion on exactly how I can help you. With over five years of experience in using Python and R, I have used time series analysis to implement business intelligence solutions across a variety of industries. I am also involved in a range of research initiatives pertaining to time series analysis, and have presented my work at international conferences.
