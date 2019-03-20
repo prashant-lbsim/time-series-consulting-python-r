@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+[Home](https://mgcodesandstats.github.io/) |
+[Time Series Consulting](https://mgcodesandstats.github.io/timeseriesconsulting/) |
+[Portfolio](https://mgcodesandstats.github.io/portfolio/) |
+[Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
+[E-mail me](mailto:michael@michaeljgrogan.com) |
+[LinkedIn](https://www.linkedin.com/in/michaeljgrogan/)
 
-You can use the [editor on GitHub](https://github.com/MGCodesandStats/timeseriesconsulting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Do you have time series data that you need to leverage to its full potential?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to e-mail me for an initial discussion on exactly how I can help you. With over five years of experience in using Python and R, I have used time series analysis to implement business intelligence solutions across a variety of industries. I am also involved in a range of research initiatives pertaining to time series analysis, and have presented my work at international conferences.
 
-### Markdown
+Some examples of time series projects I have worked on include:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Panel data modelling for a major financial institution
+- Sales forecasting and analysis across a variety of industries
+- Road traffic modelling for a local governmental authority
 
-```markdown
-Syntax highlighted code block
+# Portfolio Examples
 
-# Header 1
-## Header 2
-### Header 3
+## [Kalman Filter: Modelling Time Series Shocks with KFAS in R](https://mgcodesandstats.github.io/kalman-filter-shocks-kfas/)
 
-- Bulleted
-- List
+![timeseriesconsulting](usdchf-plot.png)
 
-1. Numbered
-2. List
+Time series shocks in the currency market were modelled in this instance using a model known as the Kalman Filter. The model showed high responsiveness in adjusting for the sudden downtrend in GBP/USD one day before “Brexit”, and for the USD/CHF one day before the depegging of the euro against the Swiss franc.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## [Modelling time series relationships between the S&P 500 and oil prices](https://mgcodesandstats.github.io/time-series-relationships-economics/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![timeseriesconsulting](oil.png)
 
-### Jekyll Themes
+In this example, an OLS regression model is constructed to forecast future S&P 500 levels based on the price of Brent crude oil. The model was adjusted for serial correlation, and tested for cointegration. The model was able to predict the actual values of the S&P 500 within 5% accuracy on average, with 61% of prediction errors falling below 5%.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MGCodesandStats/timeseriesconsulting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## [Predicting commercial electricity consumption with an LSTM neural network](https://mgcodesandstats.github.io/electricity-consumption-neural/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![timeseriesconsulting](over-50-days.png)
+
+Here is an illustration of how the LSTM neural network was used to forecast energy consumption of the Dublin City Council Civic Offices using data between April 2011 – February 2013. The LSTM model demonstrated a low test error (root mean squared error) in forecasting electricity trends.
+
+
+## [SARIMA: Forecasting seasonal data with Python and R](https://mgcodesandstats.github.io/arima-model-statsmodels-python/)
+
+![timeseriesconsulting](article-2.png)
+
+SARIMA was used to model seasonal weather data for Dublin, Ireland from 1941 to 2019. The ARIMA model was adjusted for seasonality, and demonstrated a mean percentage error of -0.3%. Moreover, the number of predictions with a percentage error below 10% relative to the actual was over 70%.
