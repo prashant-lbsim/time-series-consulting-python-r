@@ -2,7 +2,8 @@
 [Time Series Consulting](https://mgcodesandstats.github.io/timeseriesconsulting/) |
 [Portfolio](https://mgcodesandstats.github.io/portfolio/) |
 [Terms and Conditions](https://mgcodesandstats.github.io/terms/) |
-[E-mail me](mailto:michael@michaeljgrogan.com)
+[E-mail me](mailto:michael@michaeljgrogan.com) |
+[Connect with me on LinkedIn](https://www.linkedin.com/in/michaeljgrogan/)
 
 # Do you have time series data that you need to leverage to its full potential?
 
